@@ -19,6 +19,8 @@ const PORT =  3010;
 
 app.get('/login', UserController.getLogin);
 
+app.patch('/login', UserController.updateLogin);
+
 app.get('/products', ProductController.getProducts);
 
 app.post('/products', ProductController.createProducts);
