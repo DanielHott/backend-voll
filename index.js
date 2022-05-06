@@ -11,15 +11,17 @@ app.use(express.json());
 
 const PORT =  3010;
 
- app.use((_req, res, next) => {
+app.use((_req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*' )
     app.use(cors());
     next();
 }) 
 
-app.get('/login', UserController.getLogin);
+app.post('/login', UserController.getLogin);
 
 app.patch('/login', UserController.updateLogin);
+
+app.post('/user', UserController.getOne);
 
 app.get('/products', ProductController.getProducts);
 

@@ -18,19 +18,19 @@ module.exports = {
         name: 'Caixa de Som Portátil',
         description: ' Bluetooth e À Prova de Poeira e Água – Preto',
         coins: 22,
-        image: 'https://imgs.casasbahia.com.br/55030361/1xg.jpg'
+        image: 'https://m.media-amazon.com/images/I/71bsb-XWmaS._AC_SL1000_.jpg'
       },
       {
         name: 'Lavadora',
         description: 'Semiautomática Branca - 10kg',
         coins: 59,
-        image: 'https://imgs.casasbahia.com.br/55030361/1xg.jpg'
+        image: 'https://imgs.casasbahia.com.br/55010661/1xg.jpg'
       },
       {
         name: 'Refrigerador',
         description: ' Frost Free com Painel de Controle Externo 371L - Branco',
         coins: 289,
-        image: 'https://imgs.casasbahia.com.br/55030361/1xg.jpg'
+        image: 'https://imgs.casasbahia.com.br/1743662/1xg.jpg'
       },
       
     ])
