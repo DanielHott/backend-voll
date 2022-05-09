@@ -5,7 +5,7 @@ Front-end da aplicação: https://github.com/DanielHott/frontend-voll
 
 ## Detalhes da aplicação
 
-O back-end possui 5 rotas para conectar o front-end ao banco de dados.
+O back-end possui 3 rotas para conectar o front-end ao banco de dados.
 
 ### Rota /login
 
