@@ -1,6 +1,7 @@
 # Teste Voll (Back-end)
 
 Este back-end foi desenvolvido para um teste técnico onde consiste na criação de uma plataforma para controle de pontos com loja virtual.
+Front-end da aplicação: https://github.com/DanielHott/frontend-voll
 
 ## Detalhes da aplicação
 
@@ -66,7 +67,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd frontend-voll
+  cd backend-voll
 ```
 
 Instale as dependências
